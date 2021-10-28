@@ -1,0 +1,66 @@
+
+.home{
+		
+		height: 620px;
+		border: 2px solid black;
+		background-image: url(soul.jpg);
+		
+	}
+	.menu{
+		
+		float: right;
+		font-size: 40px;
+		color: white;
+	}
+	.info{
+
+
+		float: right;
+
+	}
+
+	
+	 header{
+	 	
+	 	height: 100px;
+	 	text-align: left;
+	 	color: white;
+	 	
+
+
+	 }
+	 footer{
+
+	 	
+	 	height: 100px;
+	 	width: 100%;
+	 	font-weight: bold;
+	 	
+	 	text-align: center;
+	 	
+	 	font-style: italic;
+	 	color: white;
+
+
+	 	
+
+	 }
+	 .main{
+
+	 	height: 410px;
+	 	text-align: left;
+	 	color: white;
+
+	 }
+	 .one{
+
+	 	font-style: italic;
+	 	font-size: 30px;
+	 	color: white;
+	 }
+	 .two{
+
+	 	font-size: 50px;
+	 	font-style: italic;
+	 	color: white;
+	 }
